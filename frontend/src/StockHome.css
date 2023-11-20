@@ -1,0 +1,79 @@
+/* Define CSS for StockHome Component */
+
+/* Container */
+.container {
+    margin: 20px;
+  }
+  
+  /* Heading Style */
+  .text-info {
+    color: blue;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  /* Search Input */
+  .form-control {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Download PDF Button */
+  .btn-secondary {
+    background-color: #000;
+    color: white;
+    padding: 7px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Table Styles */
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+  }
+  
+  th, td {
+    border: 1px solid #000;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  /* Buttons within the table */
+  .btn-warning, .btn-danger {
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .btn-warning {
+    background-color: orange;
+  }
+  
+  .btn-danger {
+    background-color: red;
+  }
+  
+  /* Add New Stock Button */
+  .btn-success {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: green;
+    border: none;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn-success:hover {
+    background-color: darkgreen;
+  }
+  

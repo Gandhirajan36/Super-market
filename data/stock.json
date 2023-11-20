@@ -1,0 +1,21 @@
+[
+    {
+        "StockType": "Clothing",
+        "SupplierID": "S98765",
+        "SupplierName": "Fashion World",
+        "DateOfReceived": "2023-10-20"
+    },
+    {
+        "StockType": "Furniture",
+        "SupplierID": "S54321",
+        "SupplierName": "Home Decor Suppliers",
+        "DateOfReceived": "2023-11-01"
+    },
+    {
+        "StockType": "Books",
+        "SupplierID": "S24680",
+        "SupplierName": "Book Haven",
+        "DateOfReceived": "2023-11-05"
+    }
+]
+

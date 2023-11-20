@@ -1,0 +1,40 @@
+[
+    {
+        "StockID": "ABC123",
+        "ItemName": "Widget",
+        "ItemType": "Gadget",
+        "quantity": 50,
+        "UnitPrice": 25.99
+    },
+    {
+        "StockID": "XYZ789",
+        "ItemName": "Gizmo",
+        "ItemType": "Device",
+        "quantity": 30,
+        "UnitPrice": 49.99
+    },
+    
+        {
+            "StockID": "DEF456",
+            "ItemName": "Tool Set",
+            "ItemType": "Hardware",
+            "quantity": 20,
+            "UnitPrice": 79.99
+        },
+        {
+            "StockID": "MNO123",
+            "ItemName": "Notebook",
+            "ItemType": "Stationery",
+            "quantity": 100,
+            "UnitPrice": 3.49
+        },
+        {
+            "StockID": "PQR789",
+            "ItemName": "Headphones",
+            "ItemType": "Electronics",
+            "quantity": 15,
+            "UnitPrice": 149.99
+        }
+    
+    
+]
